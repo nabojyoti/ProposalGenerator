@@ -13,6 +13,7 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 
 config_file_path = r"configs/register_configs.json"
 
+
 # Load the configuration file
 try:
     with open(config_file_path, 'r') as file:
