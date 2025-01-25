@@ -1,0 +1,13 @@
+{
+    "name": "Green Horizons Initiative",
+    "ngo_details": [
+        "assets/green_horizon_details_1.txt",
+        "assets/green_horizon_details_2.pdf"
+    ],
+    "proposal_letters": [
+        "assets/proposal_letter_1.txt",
+        "assets/proposal_letter_2.txt",
+        "assets/proposal_letter_3.txt",
+        "assets/proposal_letter_4.txt"
+    ]
+}
